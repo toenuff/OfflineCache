@@ -1,5 +1,5 @@
 # OfflineCache
-This is some sample code used to show how to invnoke a method on a COM interface that has no TLB file.
+This is some sample code used to show how to invoke a method on a COM interface that has no TLB file.
 
 It creates an InProc server and grabs the reference, and then invokes the method.  This is blogged about here:
 
